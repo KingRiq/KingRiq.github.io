@@ -23,7 +23,7 @@
 <a href="http://www.facebook.com"> Link right here</a>
 
 <! image>
-<img src="65913607_10217541735887184_7929166260196081664_n.jpg" alt="Hi" width="600" height="700">
+<img src="image1.jpg" alt="Hi" width="600" height="700">
 <!Style element is used to add styles to an element>
 <p style = "color: pink;">Chec out this color m8</p>
 
