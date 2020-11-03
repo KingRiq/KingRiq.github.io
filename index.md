@@ -10,8 +10,7 @@
 
 ### Work History 
 ----
-**United States Air Force – Minot, ND**
-
+**United States Air Force – Minot, ND**    
 *2013-2018* 
 
 Nuclear Weapons Team Leader/Supervisor
@@ -31,8 +30,7 @@ Nuclear Weapons Team Leader/Supervisor
 
 *	Performed 157 armed sentry/security operations, denying unauthorized entry for restricted areas containing highly sensitive information and components over a 3 year time period
  
-**Home Depot – Houston, TX**
-
+**Home Depot – Houston, TX**    
 *2011-2013*
 
 Blinds and Flooring Specialist
@@ -46,8 +44,7 @@ Blinds and Flooring Specialist
 
 
 
-**Aegis Communication Group Inc. – Killeen, TX**
-
+**Aegis Communication Group Inc. – Killeen, TX**            
 *2010-2011*
 
 Customer Care Provider/Data Entry/Payable Clerk
