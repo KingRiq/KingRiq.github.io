@@ -9,9 +9,9 @@
 
 ### Work History 
 
- **United States Air Force – Minot, ND**
+**United States Air Force – Minot, ND**
 
- *2013-2018* 
+*2013-2018* 
 
 Nuclear Weapons Team Leader/Supervisor
 * Mentored 10 employees and enforced compliance with company regulations and procedures.
@@ -30,7 +30,7 @@ Nuclear Weapons Team Leader/Supervisor
 
 *	Performed 157 armed sentry/security operations, denying unauthorized entry for restricted areas containing highly sensitive information and components over a 3 year time period
  
- ** Home Depot – Houston, TX **					
+ **Home Depot – Houston, TX**					
 
 *2011-2013*
 
@@ -58,6 +58,7 @@ Customer Care Provider/Data Entry/Payable Clerk
 *	Retained customer relationships by making courtesy calls and assisted 50 retired senior citizens with the delivery of a 90 day supply of medication to their door step for Humana Inc.
 
 **Fludd's Notary Public and Consultant Services – Orangeburg, SC    **                                            
+
 *2008-2010*
 
 Property Manager/Receptionist
@@ -77,17 +78,28 @@ Property Manager/Receptionist
 
 High School Diploma
 
-Community College of the Air Force – Montgomery, AL				`	   2013-2018
+**Community College of the Air Force – Montgomery, AL**					   
+*2013-2018*
+
 Munitions Systems Technology
 
-United States Air Force – Minot ND						                        2017	
+**United States Air Force – Minot ND**						                        
+
+*2017*
+
 Certificate, Airman Leadership School (6 weeks)						  
 
-Park University – Parkville, MO									  2015-2017	         
+**Park University – Parkville, MO**								  
+
+*2015-2017*       
+
 Studied Software Engineering/Programming
 15 credit hours completed
 
-University of Manitoba – Winnipeg, MB, Canada						  2018- Present
+**University of Manitoba – Winnipeg, MB, Canada**						  
+
+*2018- **Present***
+
 Bachelors of Science – Software Engineering/Programming (Present)
 72 credit hours completed
 
