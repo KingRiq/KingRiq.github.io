@@ -25,3 +25,5 @@ fontsize: 11pt
 linkcolor: blue
 urlcolor: blue
 ---
+
+theme: jekyll-theme-cayman
