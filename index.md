@@ -1,9 +1,18 @@
+<<<<<<< HEAD
 ## Eriq Hampton
 
 ### 106-700 Allegheny Drive, Winnipeg, MB, R3T4E4
 ### (431)-336-3016
 ### Email: eriqrhampton@yahoo.com
 #
+=======
+Eriq Hampton
+======
+### 106-700 Allegheny Drive, Winnipeg, MB, R3T4E4
+### (431)-336-3016
+### Email: eriqrhampton@yahoo.com
+
+>>>>>>> 4f1070adf67eff6eaf77dd4b7b793b6d1eab27c5
 ### Work History 
 
  **United States Air Force – Minot, ND             2013-2018** 
