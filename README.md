@@ -1,3 +1,102 @@
-# KingRiq.github.io
 
-This will be where I explain everything
+
+
+README.md
+Project Title 
+Eriq’s Guide to Hosting an Resume Online.
+Why would you want to host your Resume online?
+Well, consider a scenario where you want to impress an employer in hopes that they will hire you. You carefully update your resume and submit it only to realize that you have forgotten information. Unfortunately, it’s too late; the employer has already downloaded your resume` and you now have lost your chance to impress them. 
+Static websites mitigate this hassle because you can update them on the fly and when you refer employers to your static website they will have the most correct and up to date version. 
+This readme will provide with instructional information on how to host your resume on GitHub Pages. Following the concepts of Andrew Etter’s book Modern Technical Writing, This readme will help provide an understanding of all necessary tools and the installation processes of hosting your website online and hopefully open doors of inquiry about the documentation process.
+
+Audience
+The purpose of this tutorial is to show fellow Computer Science students how to host a resume on GitHub Pages. Andrew Etter the author of Modern Technical Writing suggests that as a Technical writer you should invest in a static website
+
+Getting Started
+These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
+Prerequisites
+I will assume that since this document is located online you can get the following necessary tools to get you started.
+You will need
+•	A GitHub account
+•	A terminal, or command line environment, or GitHub’s Desktop Application
+•	A resume formatted in Markdown
+Instructions
+1.	Navigate over to Github.com 
+2.	Proceed to log in and create a new repository
+3.	Name this new repository username.github.io where username is your actual github username (For example googlefan22.github.io)
+o	NOTE: you must follow this exactly or it will not work.
+4.	 Choosing whether your resume will be private or public is entirely up to you but if make it private you will be ignoring the fact that a technical writer aim to produce content that is useful for their audience and Etter expreses that this is the primary goal of technical writing.
+5.	Choose whether you are going to use a terminal, or GitHub Application
+Terminal
+The following will help you with the process of using terminal with your repository
+1.	Open up your terminal
+2.	Go to the folder where you want to store your project. This will be your new respository directory.
+3.	Clone the directory by putting the following command
+git clone https://github.com/username/username.github.io
+4.	Enter the project folder by entering cd username.github.io
+5.	Click and drag your Markdown formatted resume into the directory and get ready to push it.
+
+Pushing is a process where you add your file, and document why you are adding/editing the file. You are essentially updating the files on a remote repository in github with your local repository on your computer.
+
+6.	Add using the command git add --all
+Leave a descriptive summary in your commit using git commit -m "Description/Summary"
+
+o	Typically since this is your first entry in this repo(repository) you can put something simple like “First commit” or “First Entry” 
+ 	Etter explains that documentation should be comprehensive so keep this as short but descriptive as you can going forward.
+7.	Enter git push -u origin master to update your master branch in your repo  and you. Have successfully uploaded your resume. 
+o	This may take a few minutes to actually update. Patience is key.
+
+
+
+
+
+
+GitHubDesktop
+The following will help you use GitHub Desktop with your repo(repository).
+1.	Click the “Set up in Desktop” button in the quick set up menu within your repository on GitHub.
+2.	Save the project once the application opens
+3.	Make sure you are in the correct repo within the Desktop App.
+4.	Follow the prompts for installation
+5.	Enter you project directory 
+o	Typically in your “Documents” folder
+6.	Click and drag your Markdown formatted Resume into the directory
+7.	Go back to your GitHub Desktop 
+8.	Leave a descriptive summary in in the bottom left description box
+9.	Click the “commit to master” below the description box
+10.	 Click the publish button located on the top right of the Desktop App.
+
+Finishing up
+1.	Open up your web browser.
+2.	Navigate to https://username.github.io and you will your resume on display.
+3.	Image here
+
+
+
+More Resource
+Comprehensive and Free guide on how to use Markdown.
+https://www.markdownguide.org/
+Andrew Etter’s Modern Technical Writing: An Introduction to Software. This book will give
+https://www.amazon.ca/Modern-Technical-Writing-Introduction-Documentation-ebook/dp/B01A2QL9SS
+A Descriptive guide to building a static website using Jekyll.
+https://programminghistorian.org/en/lessons/building-static-sites-with-jekyll-github-pages
+Jekyll Themes you can apply to your resume using a simple yaml file.
+https://pages.github.com/themes/
+
+
+
+Authors and Acknowledgement
+•	Thanks to Andrew Etter’s Book for creating a comprehensive guide on how to be an efficient technical writer. 
+•	GitHub pages for allowing everyone to host a static website free of charge
+•	To my teammates in group 7 who provided me with feedback to revise and document this Readme properly.
+•	Parker Moore at https://github.com/parkr who is the creator of the slate theme I used for my resume and readme files.
+FAQ
+
+Q: Who can access my github repository?
+A: Anyone, if your repository is public but only collaborators and those with special permission if you have enabled it private.
+
+Q: Why should I document my commit?
+A: Sometimes collaborators need to know the work you have done so they do not recreate the wheel. Overall Andrew Etter explains that short and descriptive documentation provides clarity and being too descriptive can take time away from the technical writer.
+
+Q: Are there any other tools I can use with markdown?
+A: Markdown comes in many different flavors according to Etter and depending on the chose can determine what templates you can use. Jekyyl themes can be used in conjunction with markdown and you can configure markdown to be integrated with a programming language.
+
