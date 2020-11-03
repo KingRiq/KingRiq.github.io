@@ -1,18 +1,21 @@
  # Eriq’s Guide to Hosting a Resume Online.
 
-## Why would I want to host your Resume online?
+    Why would I want to host your Resume online?
 
 Well, consider a scenario where you want to impress an employer in hopes that they will hire you. You carefully update your resume and submit it only to realize that you have forgotten information. Unfortunately, it’s too late; the employer has already downloaded your resume` and you now have lost your chance to impress them. 
 Static websites mitigate this hassle because you can update them on the fly and when you refer employers to your static website, they will have the most correct and up to date version. 
+
+## Purpose
+
 This readme will provide with instructional information on how to host your resume on GitHub Pages. Following the concepts of Andrew Etter’s book Modern Technical Writing, This README will help provide an understanding of all necessary tools and the installation processes of hosting your website online and hopefully open doors of inquiry about the documentation process.
 
 ## Audience
-----
+
 The purpose of this tutorial is to show fellow Computer Science students how to host a resume on GitHub Pages. Andrew Etter the author of Modern Technical Writing suggests that as a Technical writer you should invest in a static website
 
 
 ## Prerequisites
-----
+
 I will assume that since this document is located online you can get the following necessary tools to get you started.
 You will need
 * A GitHub account
@@ -20,7 +23,7 @@ You will need
 * 	A resume formatted in Markdown
 
 ## Instructions
-----
+
 
 1. Navigate over to Github.com 
 2.	Proceed to log in and create a new repository
@@ -71,17 +74,25 @@ o	Typically, in your “Documents” folder
 7.	Go back to your GitHub Desktop 
 8.	Leave a descriptive summary in in the bottom left description box
 9.	Click the “commit to master” below the description box
+![Publishing to Git](desktopapp.gif)
 10.	 Click the publish button located on the top right of the Desktop App.
 
-###Finishing up
+*When you are done it should look something like this*
+
+
+![Publishing to Git](repoupdated.png)
+
+
+
+### Finishing up
 1.	Open up your web browser.
 2.	Navigate to https://username.github.io and you will your resume on display.
-3.	Image here
+![Your resume is not on GitHub Pages](resume.gif)
 
 
 
 ## More Resource
-----
+
 
 Comprehensive and Free guide on how to use Markdown.
 https://www.markdownguide.org/
@@ -94,23 +105,26 @@ https://pages.github.com/themes/
 
 
 
-Authors and Acknowledgement
+## Authors and Acknowledgement
 •	Thanks to Andrew Etter’s Book for creating a comprehensive guide on how to be an efficient technical writer. 
 •	GitHub pages for allowing everyone to host a static website free of charge
 •	To my teammates in group 7 who provided me with feedback to revise and document this Readme properly.
 •	Parker Moore at https://github.com/parkr who is the creator of the slate theme I used for my resume and readme files.
-FAQ
+
+## FAQ
 
 Q: Who can access my GitHub repository?
-A: Anyone, if your repository is public but only collaborators and those with special permission if you have enabled it private.
+
+A: *Anyone, if your repository is public but only collaborators and those with special permission if you have enabled it private.*
 
 Q: Why should I document my commit?
-A: Sometimes collaborators need to know the work you have done so they do not recreate the wheel. Overall Andrew Etter explains that short and descriptive documentation provides clarity and being too descriptive can take time away from the technical writer.
+
+A: *Sometimes collaborators need to know the work you have done so they do not recreate the wheel. Overall Andrew Etter explains that short and descriptive documentation provides clarity and being too descriptive can take time away from the technical writer.*
 
 Q: Are there any other tools I can use with markdown?
 A: Markdown comes in many different flavors according to Etter and depending on the chose can determine what templates you can use. Jekyll themes can be used in conjunction with markdown and you can configure markdown to be integrated with a programming language.
 
 Q: Which is easier to use Desktop App or Terminal.
-A: Initially terminal is easier because you copy and paste commands from the start but once you make more updates you will require more sophistication. Documentation conflicts can become problematic. Overall, Desktop is easier to use in the long run.
 
-![Did I do this right](desktopapp.gif)
+A: *Initially terminal is easier because you copy and paste commands from the start but once you make more updates you will require more sophistication. Documentation conflicts can become problematic. Overall, Desktop is easier to use in the long run.*
+
