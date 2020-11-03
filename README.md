@@ -113,4 +113,4 @@ A: Markdown comes in many different flavors according to Etter and depending on 
 Q: Which is easier to use Desktop App or Terminal.
 A: Initially terminal is easier because you copy and paste commands from the start but once you make more updates you will require more sophistication. Documentation conflicts can become problematic. Overall, Desktop is easier to use in the long run.
 
-![Did I do this right](desktopapp)
+![Did I do this right](desktopapp.gif)
