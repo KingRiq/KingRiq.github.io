@@ -4,13 +4,12 @@
 ### 106-700 Allegheny Drive, Winnipeg, MB, R3T4E4
 ### (431)-336-3016
 ### Email: eriqrhampton@yahoo.com
-#
+-----
 
 
 ### Work History 
 
 **United States Air Force – Minot, ND**
-
 *2013-2018* 
 
 Nuclear Weapons Team Leader/Supervisor
@@ -30,12 +29,10 @@ Nuclear Weapons Team Leader/Supervisor
 
 *	Performed 157 armed sentry/security operations, denying unauthorized entry for restricted areas containing highly sensitive information and components over a 3 year time period
  
- **Home Depot – Houston, TX**					
-
+**Home Depot – Houston, TX**					
 *2011-2013*
 
 Blinds and Flooring Specialist
-
 *	Developed skills in carpentry with tile, hardwood/laminate, carpet, and vinyl.
 
 *	Drove customer sales of flooring products and sold above plan for the fiscal years of 2012 and 2013.
@@ -62,7 +59,6 @@ Customer Care Provider/Data Entry/Payable Clerk
 *2008-2010*
 
 Property Manager/Receptionist
-
 *	Coordinated property management of $1M worth of real estate.
 
 *	Processed applications for tenants of housing.
