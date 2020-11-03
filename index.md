@@ -7,7 +7,7 @@ Eriq Hampton
 ## Work History 
 
  **United States Air Force – Minot, ND             2013-2018** 
-<md>Hi</md>
+<md><div align = "center"> Hi</div></md>
 Nuclear Weapons Team Leader/Supervisor
 * Mentored 10 employees and enforced compliance with company regulations and procedures.
 
