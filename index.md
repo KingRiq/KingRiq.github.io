@@ -5,18 +5,14 @@
 ### (431)-336-3016
 ### Email: eriqrhampton@yahoo.com
 #
-=======
-Eriq Hampton
-======
-### 106-700 Allegheny Drive, Winnipeg, MB, R3T4E4
-### (431)-336-3016
-### Email: eriqrhampton@yahoo.com
 
 
 ### Work History 
 
- **United States Air Force – Minot, ND             2013-2018** 
-<md><h1><div align = "center"> Hippy</div></h1></md>
+ **United States Air Force – Minot, ND**
+
+ *2013-2018* 
+
 Nuclear Weapons Team Leader/Supervisor
 * Mentored 10 employees and enforced compliance with company regulations and procedures.
 
@@ -33,8 +29,11 @@ Nuclear Weapons Team Leader/Supervisor
 *	Trained and collaborated with co-organizations on maintaining the integrity of job control data resulting in an accuracy of 97% throughout the entire district.
 
 *	Performed 157 armed sentry/security operations, denying unauthorized entry for restricted areas containing highly sensitive information and components over a 3 year time period
+ 
+ ** Home Depot – Houston, TX **					
 
-Home Depot – Houston, TX						2011-2013
+*2011-2013*
+
 Blinds and Flooring Specialist
 
 *	Developed skills in carpentry with tile, hardwood/laminate, carpet, and vinyl.
@@ -58,7 +57,8 @@ Customer Care Provider/Data Entry/Payable Clerk
 
 *	Retained customer relationships by making courtesy calls and assisted 50 retired senior citizens with the delivery of a 90 day supply of medication to their door step for Humana Inc.
 
-**Fludd's Notary Public and Consultant Services – Orangeburg, SC                                                   2008-2010**
+**Fludd's Notary Public and Consultant Services – Orangeburg, SC    **                                            
+*2008-2010*
 
 Property Manager/Receptionist
 
@@ -71,7 +71,10 @@ Property Manager/Receptionist
 
 ### Education and Training History
 
-Fort George G Meade Senior High School – Fort Meade, Maryland			             2009
+** Fort George G Meade Senior High School – Fort Meade, Maryland** 		             
+
+*2009*
+
 High School Diploma
 
 Community College of the Air Force – Montgomery, AL				`	   2013-2018
