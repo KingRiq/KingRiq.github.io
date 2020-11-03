@@ -1,5 +1,4 @@
-<md><div align = "center">Eriq Hampton</div> </md>
-======
+#<md><div align = "center">Eriq Hampton</div> </md>
 ### <md><div align = "center">106-700 Allegheny Drive, Winnipeg, MB, R3T4E4</div> </md>
 ### (431)-336-3016
 ### Email: eriqrhampton@yahoo.com
