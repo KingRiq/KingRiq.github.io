@@ -5,7 +5,6 @@
 ### (431)-336-3016
 ### Email: eriqrhampton@yahoo.com
 
-====
 
 
 ### Work History 
@@ -18,7 +17,7 @@ Nuclear Weapons Team Leader/Supervisor
 
 *	Garnered “Top Team Performance” award during 1st quarter district evaluation of 2017
 
-*	Planned and organized weapon inventories, production control and standards of quality safety and security within the work place.
+*	Planned and organized weapon inventories, production control and standards of quality safety and security within the workplace.
 
 *	Promoted to Nuclear Weapons Team Leader a year ahead of peers to lead over 40 nuclear tests and troubleshooting operations.
 
@@ -54,7 +53,7 @@ Customer Care Provider/Data Entry/Payable Clerk
 
 *	Communicated with 200 clients within a two month period inquiring about recall procedures and customer retention for Staywell under Warner Chilcot Pharmaceutical industry company.
 
-*	Retained customer relationships by making courtesy calls and assisted 50 retired senior citizens with the delivery of a 90 day supply of medication to their door step for Humana Inc.
+*	Retained customer relationships by making courtesy calls and assisted 50 retired senior citizens with the delivery of a 90 day supply of medication to their doorstep for Humana Inc.
 
 **Fludd's Notary Public and Consultant Services – Orangeburg, SC**                                            
 *2008-2010*
