@@ -1,10 +1,10 @@
 
-## Eriq Hampton
+### Eriq Hampton
 
 ### 106-700 Allegheny Drive, Winnipeg, MB, R3T4E4
 ### (431)-336-3016
 ### Email: eriqrhampton@yahoo.com
------
+====
 
 
 ### Work History 
@@ -55,7 +55,7 @@ Customer Care Provider/Data Entry/Payable Clerk
 
 *	Retained customer relationships by making courtesy calls and assisted 50 retired senior citizens with the delivery of a 90 day supply of medication to their door step for Humana Inc.
 
-**Fludd's Notary Public and Consultant Services – Orangeburg, SC    **                                            
+**Fludd's Notary Public and Consultant Services – Orangeburg, SC**                                            
 *2008-2010*
 
 Property Manager/Receptionist
@@ -69,10 +69,9 @@ Property Manager/Receptionist
 ### Education and Training History
 ----
 **University of Manitoba – Winnipeg, MB, Canada**						  
-
 *2018- **Present***
 
-Bachelors of Science – Software Engineering/Programming (Present)
+Bachelors of Science – Software Engineering/Programming
 72 credit hours completed
 
 **Community College of the Air Force – Montgomery, AL**					   
@@ -83,7 +82,7 @@ Munitions Systems Technology
 **United States Air Force – Minot ND**						                        
 *2017*
 
-Certificate, Airman Leadership School (6 weeks)						  
+Certificate, Airman Leadership School *(6 weeks)*					  
 
 **Park University – Parkville, MO**								  
 *2015-2017*       
@@ -91,13 +90,13 @@ Certificate, Airman Leadership School (6 weeks)
 Studied Software Engineering/Programming
 15 credit hours completed
 
-----
 
-** Fort George G Meade Senior High School – Fort Meade, Maryland** 		             
+
+**Fort George G Meade Senior High School – Fort Meade, Maryland** 		             
 *2009*
 
 High School Diploma
-
+----
 
 
 
