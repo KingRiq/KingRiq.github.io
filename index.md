@@ -1,94 +1,91 @@
-Johnny Coder
-============
+layout: cv 
+## <div align = "center">Eriq Hampton</div>
 
--------------------     ----------------------------
-1 MyAddress                        email@example.com
-MyTown 1000                          @twitter_handle
-MyCountry                           1800 my-phone-nr
--------------------     ----------------------------
+### <div align = "center"> 106-700 Allegheny Drive, Winnipeg, MB, R3T4E4
+### <div align = "center">(431)-336-3016 </div>
+### <div align = "center">Email: eriqrhampton@yahoo.com</div>
 
-Education
----------
+# 
+<div align = "center">Work History </div>  
+<br></br>
 
-2010-2014 (expected)
-:   **PhD, Computer Science**; Awesome University (MyTown)
+ **United States Air Force – Minot, ND             2013-2018** 
 
-    *Thesis title: Deep Learning Approaches to the Self-Awesomeness
-     Estimation Problem*
+Nuclear Weapons Team Leader/Supervisor
+* Mentored 10 employees and enforced compliance with company regulations and procedures.
 
-2007-2010
-:   **BSc, Computer Science and Electrical Engineering**; University of
-    HomeTown (HomeTown)
+*	Garnered “Top Team Performance” award during 1st quarter district evaluation of 2017
 
-    *Minor: Awesomeology*
+*	Planned and organized weapon inventories, production control and standards of quality safety and security within the work place.
 
-Experience
-----------
+*	Promoted to Nuclear Weapons Team Leader a year ahead of peers to lead over 40 nuclear tests and troubleshooting operations.
 
-**Your Most Recent Work Experience:**
+*	Ordered $2M of repair parts and critical components for the Nuclear Supply and Logistics Program.
 
-Short text containing the type of work done, results obtained,
-lessons learned and other remarks. Can also include lists and
-links:
+*	Inspected, assembled and maintained 6.2 billion dollar nuclear weapon stockpile, aircraft equipment and assured 100% response and readiness.
 
-* First item
+*	Trained and collaborated with co-organizations on maintaining the integrity of job control data resulting in an accuracy of 97% throughout the entire district.
 
-* Item with [link](http://www.example.com). Links will work both in
-  the html and pdf versions.
+*	Performed 157 armed sentry/security operations, denying unauthorized entry for restricted areas containing highly sensitive information and components over a 3 year time period
 
-**That Other Job You Had**
+Home Depot – Houston, TX						2011-2013
+Blinds and Flooring Specialist
 
-Also with a short description.
+*	Developed skills in carpentry with tile, hardwood/laminate, carpet, and vinyl.
 
-Technical Experience
---------------------
+*	Drove customer sales of flooring products and sold above plan for the fiscal years of 2012 and 2013.
 
-My Cool Side Project
-:   For items which don't have a clear time ordering, a definition
-    list can be used to have named items.
+*	Volunteered to learn and operate all Home Depot heavy machinery inside and outside of the flooring department.
 
-    * These items can also contain lists, but you need to mind the
-      indentation levels in the markdown source.
-    * Second item.
+*	Lead kid/family ceramic tile workshops that taught more than 40 children under parental supervision a lifetime skill.  
 
-Open Source
-:   List open source contributions here, perhaps placing emphasis on
-    the project names, for example the **Linux Kernel**, where you
-    implemented multithreading over a long weekend, or **node.js**
-    (with [link](http://nodejs.org)) which was actually totally
-    your idea...
 
-Programming Languages
-:   **first-lang:** Here, we have an itemization, where we only want
-    to add descriptions to the first few items, but still want to
-    mention some others together at the end. A format that works well
-    here is a description list where the first few items have their
-    first word emphasized, and the last item contains the final few
-    emphasized terms. Notice the reasonably nice page break in the pdf
-    version, which wouldn't happen if we generated the pdf via html.
 
-:   **second-lang:** Description of your experience with second-lang,
-    perhaps again including a [link] [ref], this time placing the url
-    reference elsewhere in the document to reduce clutter (see source
-    file). 
+**Aegis Communication Group Inc. – Killeen, TX				2010-2011**
+Customer Care Provider/Data Entry/Payable Clerk
 
-:   **obscure-but-impressive-lang:** We both know this one's pushing
-    it.
+*	Managed and navigated sensitive healthcare systems containing over 115 million clients in accordance of the HIPAA privacy rule.
 
-:   Basic knowledge of **C**, **x86 assembly**, **forth**, **Common Lisp**
+*	Coordinated with Medicare to ensure the customer received the right prescription medications on behalf United Health Group (UHG).
 
-[ref]: https://github.com/githubuser/superlongprojectname
+*	Communicated with 200 clients within a two month period inquiring about recall procedures and customer retention for Staywell under Warner Chilcot Pharmaceutical industry company.
 
-Extra Section, Call it Whatever You Want
-----------------------------------------
+*	Retained customer relationships by making courtesy calls and assisted 50 retired senior citizens with the delivery of a 90 day supply of medication to their door step for Humana Inc.
 
-* Human Languages:
+**Fludd's Notary Public and Consultant Services – Orangeburg, SC                                                   2008-2010**
 
-     * English (native speaker)
-     * ???
-     * This is what a nested list looks like.
+Property Manager/Receptionist
 
-* Random tidbit
+*	Coordinated property management of $1M worth of real estate.
 
-* Other sort of impressive-sounding thing you did
-view raw
+*	Processed applications for tenants of housing.
+
+*	Collected and financed payment plans for potential prospects.
+
+
+### <div align = "center" >Education and Training History</div>
+
+Fort George G Meade Senior High School – Fort Meade, Maryland			             2009
+High School Diploma
+
+Community College of the Air Force – Montgomery, AL				`	   2013-2018
+Munitions Systems Technology
+
+United States Air Force – Minot ND						                        2017	
+Certificate, Airman Leadership School (6 weeks)						  
+
+Park University – Parkville, MO									  2015-2017	         
+Studied Software Engineering/Programming
+15 credit hours completed
+
+University of Manitoba – Winnipeg, MB, Canada						  2018- Present
+Bachelors of Science – Software Engineering/Programming (Present)
+72 credit hours completed
+
+
+
+
+
+
+
+
