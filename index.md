@@ -1,11 +1,10 @@
-## <div align = "center">Eriq Hampton</div>
+## Eriq Hampton
 
-### <div align = "center"> 106-700 Allegheny Drive, Winnipeg, MB, R3T4E4
-### <div align = "center">(431)-336-3016 </div>
-### <div align = "center">Email: eriqrhampton@yahoo.com</div>
+### 106-700 Allegheny Drive, Winnipeg, MB, R3T4E4
+### (431)-336-3016 </div>
+### Email: eriqrhampton@yahoo.com</div>
 
-# 
-<div align = "center">Work History </div>  
+# Work History 
 <br></br>
 
  **United States Air Force – Minot, ND             2013-2018** 
@@ -62,7 +61,7 @@ Property Manager/Receptionist
 *	Collected and financed payment plans for potential prospects.
 
 
-### <div align = "center" >Education and Training History</div>
+### Education and Training History
 
 Fort George G Meade Senior High School – Fort Meade, Maryland			             2009
 High School Diploma
