@@ -8,7 +8,7 @@
 
 
 ### Work History 
-
+----
 **United States Air Force – Minot, ND**
 *2013-2018* 
 
@@ -43,9 +43,10 @@ Blinds and Flooring Specialist
 
 
 
-**Aegis Communication Group Inc. – Killeen, TX				2010-2011**
-Customer Care Provider/Data Entry/Payable Clerk
+**Aegis Communication Group Inc. – Killeen, TX**
+*2010-2011*
 
+Customer Care Provider/Data Entry/Payable Clerk
 *	Managed and navigated sensitive healthcare systems containing over 115 million clients in accordance of the HIPAA privacy rule.
 
 *	Coordinated with Medicare to ensure the customer received the right prescription medications on behalf United Health Group (UHG).
@@ -55,7 +56,6 @@ Customer Care Provider/Data Entry/Payable Clerk
 *	Retained customer relationships by making courtesy calls and assisted 50 retired senior citizens with the delivery of a 90 day supply of medication to their door step for Humana Inc.
 
 **Fludd's Notary Public and Consultant Services – Orangeburg, SC    **                                            
-
 *2008-2010*
 
 Property Manager/Receptionist
@@ -67,31 +67,7 @@ Property Manager/Receptionist
 
 
 ### Education and Training History
-
-** Fort George G Meade Senior High School – Fort Meade, Maryland** 		             
-
-*2009*
-
-High School Diploma
-
-**Community College of the Air Force – Montgomery, AL**					   
-*2013-2018*
-
-Munitions Systems Technology
-
-**United States Air Force – Minot ND**						                        
-
-*2017*
-
-Certificate, Airman Leadership School (6 weeks)						  
-
-**Park University – Parkville, MO**								  
-
-*2015-2017*       
-
-Studied Software Engineering/Programming
-15 credit hours completed
-
+----
 **University of Manitoba – Winnipeg, MB, Canada**						  
 
 *2018- **Present***
@@ -99,6 +75,28 @@ Studied Software Engineering/Programming
 Bachelors of Science – Software Engineering/Programming (Present)
 72 credit hours completed
 
+**Community College of the Air Force – Montgomery, AL**					   
+*2013-2018*
+
+Munitions Systems Technology
+
+**United States Air Force – Minot ND**						                        
+*2017*
+
+Certificate, Airman Leadership School (6 weeks)						  
+
+**Park University – Parkville, MO**								  
+*2015-2017*       
+
+Studied Software Engineering/Programming
+15 credit hours completed
+
+----
+
+** Fort George G Meade Senior High School – Fort Meade, Maryland** 		             
+*2009*
+
+High School Diploma
 
 
 
