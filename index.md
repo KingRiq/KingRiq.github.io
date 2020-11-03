@@ -4,6 +4,7 @@
 ### 106-700 Allegheny Drive, Winnipeg, MB, R3T4E4
 ### (431)-336-3016
 ### Email: eriqrhampton@yahoo.com
+
 ====
 
 
@@ -96,6 +97,7 @@ Studied Software Engineering/Programming
 *2009*
 
 High School Diploma
+
 ----
 
 
