@@ -1,14 +1,13 @@
-## Eriq Hampton
-
+Eriq Hampton
+======
 ### 106-700 Allegheny Drive, Winnipeg, MB, R3T4E4
 ### (431)-336-3016
 ### Email: eriqrhampton@yahoo.com
 
-# Work History 
-<br></br>
+## Work History 
 
  **United States Air Force – Minot, ND             2013-2018** 
-
+<md>Hi</md>
 Nuclear Weapons Team Leader/Supervisor
 * Mentored 10 employees and enforced compliance with company regulations and procedures.
 
