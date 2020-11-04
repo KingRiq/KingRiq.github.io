@@ -107,18 +107,15 @@ Here is an example showing how.
 Here are a few resources that will help you along the way.
 
 **Comprehensive and Free guide on how to use Markdown.**
-
 https://www.markdownguide.org/
 
 **Andrew Etter’s Modern Technical Writing: An Introduction to Software.**
-
 https://www.amazon.ca/Modern-Technical-Writing-Introduction-Documentation-ebook/dp/B01A2QL9SS
 
 **A Descriptive guide to building a static website using Jekyll.**
 https://programminghistorian.org/en/lessons/building-static-sites-with-jekyll-github-pages
 
 **Jekyll Themes you can apply to your resume using a simple yaml file or through thhe settings menu in GitHub**
-
 https://pages.github.com/themes/
 
 
