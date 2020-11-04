@@ -129,19 +129,15 @@ https://pages.github.com/themes/
 
 ## FAQ
 
-Q: Who can access my GitHub repository?
+**Q:** Who can access my GitHub repository?   
+**A:** *Anyone, if your repository is public but only collaborators and those with special permission if you have enabled it private.*
 
-A: *Anyone, if your repository is public but only collaborators and those with special permission if you have enabled it private.*
+**Q:** Why should I document my commit?   
+**A:** *Sometimes collaborators need to know the work you have done so they do not recreate the wheel. Overall Andrew Etter explains that short and descriptive documentation provides clarity and being too descriptive can take time away from the technical writer.*
 
-Q: Why should I document my commit?
+**Q:** Are there any other tools I can use with markdown?  
+**A:** *Using a lightweight markup language like Markdown comes in many different flavors according to Etter and depending on your choice you can determine how you arrange  your source files. A popular static website generator like Jekyll can be used in conjunction with Markdown to render projects into HTML with minimal knowledge of the language itself.*
 
-A: *Sometimes collaborators need to know the work you have done so they do not recreate the wheel. Overall Andrew Etter explains that short and descriptive documentation provides clarity and being too descriptive can take time away from the technical writer.*
-
-Q: Are there any other tools I can use with markdown?
-
-A: *Using a lightweight markup language like Markdown comes in many different flavors according to Etter and depending on your choice you can determine how you arrange  your source files. A popular static website generator like Jekyll can be used in conjunction with Markdown to render projects into HTML with minimal knowledge of the language itself.*
-
-Q: Which is easier to use Desktop App or Terminal.
-
-A: *Initially terminal is easier because you copy and paste commands from the start but once you make more updates you will require more sophistication. Documentation conflicts can become problematic. Overall, The Desktop app is easier to use in the long run.*
+**Q:** Which is easier to use Desktop App or Terminal.  
+**A:** *Initially terminal is easier because you copy and paste commands from the start but once you make more updates you will require more sophistication. Documentation conflicts can become problematic. Overall, The Desktop app is easier to use in the long run.*
 
